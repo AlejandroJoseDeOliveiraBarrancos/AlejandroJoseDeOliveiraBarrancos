@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%2C%20grab%20a%20coffee%20☕&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=&descAlignY=51&descAlign=50" alt="Header Banner">
-
-</div>
-
 ```
 ⣿⣿⣿⣿⠻⣿⣿⡏⢹⣿⣿⡟⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⢟⡿⡿⡟⠛⠻⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⡟⢻⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⠀⢻⣿⠁⢸⣿⣿⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣛⡭⠒⣶⣚⡳⢴⣯⣿⣟⣙⣲⡶⢼⡋⣽⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠘⣿⣿⡇⢸⣿⡿⢹⣿⣿⣿
